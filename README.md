@@ -1,4 +1,4 @@
-<h4 align="left">Olá👋! Sou Raphael, desenvolvedor Java, com foco em aplicações web. Proficiente em APIs REST, JPA, Hibernate, e boas práticas. Engenheiro de Software com forte atuação em gerenciamento de projetos, colaborando para entregar soluções escaláveis e eficientes.</h4>
+<h4 align="left">Olá👋! Sou Raphael, desenvolvedor Java, com foco em aplicações web. Proficiente em APIs REST, JPA, Hibernate, e boas práticas. Engenheiro de Software com forte atuação em gerenciamento de projetos, colaborando para entregar soluções escaláveis e eficientes. Devido a contratos de sigilo amostras públicas são limitadas, entre em contato para mais detalhes.</h4>
 
 ###
 
