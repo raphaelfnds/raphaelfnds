@@ -1,4 +1,8 @@
-<h4 align="left">Olá👋! Sou Raphael, desenvolvedor Java, com foco em aplicações web. Proficiente em APIs REST, JPA, Hibernate, e boas práticas. Engenheiro de Software com forte atuação em gerenciamento de projetos, colaborando para entregar soluções escaláveis e eficientes. Devido a contratos de sigilo amostras públicas são limitadas, entre em contato para mais detalhes.</h4>
+<h4 align="left">Olá 👋! Sou Raphael Fernandes, Software Architect, CTO e fundador da SoftVibe. Especializado no desenvolvimento de plataformas SaaS, sistemas corporativos e arquiteturas escaláveis utilizando Java, Spring Boot, React, TypeScript e PostgreSQL.
+
+Atuo na definição de arquiteturas, liderança técnica de equipes, construção de APIs, soluções multi-tenant e infraestrutura de aplicações modernas. Grande parte dos projetos profissionais é protegida por acordos de confidencialidade (NDA), portanto os repositórios públicos representam apenas uma parcela da minha experiência.
+
+</h4>
 
 ###
 
